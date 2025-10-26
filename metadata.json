@@ -1,0 +1,5 @@
+{
+  "name": "AC Cost Calculator",
+  "description": "A beautiful and user-friendly Air Conditioner Cost Calculator to estimate your AC's electricity consumption and running costs. It supports multiple currencies and provides real-time calculations, detailed cost breakdowns, and a visual comparison chart.",
+  "requestFramePermissions": []
+}
